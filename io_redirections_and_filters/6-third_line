@@ -1,2 +1,2 @@
 #!/bin/bash
-filename="iacta" line_number=3
+chmod +x display_third_line.sh
